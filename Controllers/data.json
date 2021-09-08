@@ -1,0 +1,47 @@
+[
+{
+    "name":"Monal marquee",
+    "city":"Islamabad",
+    "VenueType":"Garden Lawn",
+    "description":"Having attained the highest standards in sophisticate dining and gourmet cuisines, ‘The Monal’ now offers the same exhilarating experience to you at your doorstep. And not just this, we also have the complete solution to all the other catering requirements of a discerning client – from lavish canopies and luxurious furnishings, the finest china and silver, to a captivating thematic décor and impeccable service.",
+    "MaximumCapacity":"700",
+    "MinimumGuest":"100",
+    "Hall":"2 halls availiable",
+    "Services":"DJ/Sound System,Outside Vendors,Dhol,Choreographer,Off Season Discount,Wheel Chair Access"
+    
+    
+
+},
+{
+    "name":"Paragon marquee",
+    "city":"Rawalpindi",
+    "VenueType":"Lounge",
+    "description":"We are the leading event Management service provider in Islamabad, we are affiliated with the well known Afzal FoodsServices",
+    "MaximumCapacity":"500",
+    "MinimumGuest":"90",
+    "Hall":"1 halls availiable",
+    "Services":"DJ/Sound System,Outside Vendors,Dhol,Choreographer,Off Season Discount,Wheel Chair Access"
+},
+{
+    "name":"Clay oven marquee",
+    "city":"Islamabad",
+    "VenueType":"Lounge",
+    "description":"The Clay Oven caters every type of social and business event with skill and festive flair, presenting our fantastic and renowned cuisine at venues ranging from countryside retreats to 5 Star hotels. Whether your event is a smaller family gathering or an elaborate affair - 100 guests or 3000 - we will never compromise our quality and service to you.",
+    "MaximumCapacity":"10000",
+    "MinimumGuest":"500",
+    "Hall":"1 halls availiable",
+    "Services":"DJ/Sound System,Wifi,Outside Vendors,Dhol,Choreographer,Off Season Discount,Wheel Chair Access"
+},
+{
+    "name":"Empire marquee",
+    "city":"Rawalpindi",
+    "VenueType":"Lounge",
+    "description":"Empire Marquees, Leaders in Pakistani Weddings with best packages and discounted prices. With years of experience in Weddings & Event Planning, Catering and Food services, we commit the highest quality standards for your event. We promise you that we will make your event the most memorable.Services",
+    "MaximumCapacity":"400",
+    "MinimumGuest":"200",
+    "Hall":"4 halls availiable",
+    "Services":"DJ/Sound System,Wifi,Outside Vendors,Dhol,Choreographer,Off Season Discount,Wheel Chair Access"
+}
+
+
+]
